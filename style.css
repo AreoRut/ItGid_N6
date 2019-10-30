@@ -10,17 +10,17 @@ h1,h2{
 
     }
     h2{
-        font-size:30px;
+        font-size:15px;
     }
     p{
         font:normal 22px/15px consolas;
     }
     #out{
         text-align: center;
-        font-size:30px;
+        font-size:15px;
     }
     .red { color: red; }
     .blue { color: blue; }
     div{
-         margin-top: 20px;
-         margin-bottom: 20px;}
+         margin-top: 15px;
+         margin-bottom: 15px;}
